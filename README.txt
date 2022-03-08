@@ -1,5 +1,5 @@
 Name:Jordan McRae
-StudentID: 19429681
+StudentID: 
 "Identify what aspects of the work have been correctly imple- mented and what have not."
     Implemented correctly:
     1.I have succesfully set the whole page to be positioned at the middle.
